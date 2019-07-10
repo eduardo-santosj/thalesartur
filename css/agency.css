@@ -55,6 +55,7 @@ section h3.section-subheading {
 .email{
   color: #fed136;
 }
+
 @media (min-width: 768px) {
   section {
     padding: 150px 0;
